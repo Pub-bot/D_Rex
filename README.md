@@ -1,5 +1,5 @@
 # D_Rex
-I'm not a r-bot
+I'm not a Ro-bot
 
 Features:
 
